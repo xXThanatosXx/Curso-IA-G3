@@ -1,0 +1,7 @@
+Alternatively try them directly on **Google Colab** 
+
+| Title | Tutorial Notebook  | Solution |
+|-|:-:|:-:|
+| Linear Regression  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.solution.ipynb) |
+|  Principal Component Analysis (PCA) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.solution.ipynb) |
+| Gaussian Mixture Model (GMM) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.ipynb) | [ ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.solution.ipynb)|
