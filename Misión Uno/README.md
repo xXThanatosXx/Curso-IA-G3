@@ -1,3 +1,8 @@
+## Misión uno presentaciones y enlaces a Scripts
+
+<a href="https://www.canva.com/design/DAGCm11QmDg/VrkxolLa43YfMZ4IXfF3CA/edit?utm_content=DAGCm11QmDg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Enlace a Presentación Introducción a IA</a>
+
+
 Alternatively try them directly on **Google Colab** 
 
 | Title | Tutorial Notebook  | Solution |
