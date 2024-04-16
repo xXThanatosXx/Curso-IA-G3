@@ -57,10 +57,10 @@ Lección 2: Factores de fortalecimiento de la IA
 
 Lección 1: Algebra lineal
 
-- Vectores, Matices, Tensores
-- Operaciones, Multiplicación de matrices y vectores
-- Matrices identidad e inversas
-- Traza, Determinante
+- Vectores 
+- Matices
+- Tensores
+
 
 Lección 2: Probabilidad
 
@@ -69,6 +69,7 @@ Lección 2: Probabilidad
 - La probabilidad condicional
 - Independencia e independencia condicional
 - Métricas, media, varianza
+
 Lección 3: Computación Numérica y Gráfica
 
 - Computación Numérica
@@ -127,7 +128,7 @@ Sesión Teórico práctica abordando los siguientes temas:
 - Aprendizaje No Supervisado
 - Aprendizaje por Refuerzo
 
-### Unidad 2: Tareas, Modelos y Evaluacion en IA (Sesión Teórico práctica)
+### Unidad 2: Tareas, Modelos y Evaluacion en IA (Sesión Teórico)
 Lección 1: Tarea de IA
 
 - Tarea de Clasificación
