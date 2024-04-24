@@ -30,30 +30,14 @@ En 120 horas, se dasarrolla la siguinte temática:
 ##  [📂](./Misión%20Uno/) Misión Uno:
 Introducción a la Inteligencia Artificial
 
-### Unidad 1: Historia de la IA- Magistral
 Sesión Magistral abordando los siguientes temas:
-- Historia antigua
-- Historia moderna
-- Oleadas de la Inteligencia artificial 
-- Cibernética
-- Conexionismo
-- Decaimiento y Resurgimiento de las redes neuronales
+- Definición y conceptos básicos
+- Descripción y diferenciación entre IA débil y fuerte, y otras categorias
+- Acción de los agentes inteligentes interactúan con su entorno
+- Historia y evolucipon de la IA
+- Aplicaciones prácticas de la IA en campos de conocimiento.
 
-### Unidad 2: Definición y conceptos básicos de IA - Magistral
-Sesión Magistral abordando los siguientes temas:
 
-Lección 1: Representacion de la informacion
-- Representacion de la informacion
-- Factores de Variación
-- Extraccion de caracteristicas
-- Clasificaciones de la IA Según la capacidad y el  el enfoques
-
-Lección 2: Factores de fortalecimiento de la IA
-- Aumento en la disponibilidad de los datos
-- Aumento de infraestructura
-- Aplicaciones innovadoras 
-
-### Unidad 3: Bases Matemáticas- (Sesión Teórico práctica)
 
 Lección 1: Algebra lineal
 
@@ -69,11 +53,6 @@ Lección 2: Probabilidad
 - La probabilidad condicional
 - Independencia e independencia condicional
 - Métricas, media, varianza
-
-Lección 3: Computación Numérica y Gráfica
-
-- Computación Numérica
-- Computación Gráfica
 
 ## [📂](./Misión%20Dos/) Misión Dos:
 Fundamentos de Programación para IA
