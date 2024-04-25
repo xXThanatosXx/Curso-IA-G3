@@ -1,0 +1,4 @@
+
+#comentario
+
+print(10)
