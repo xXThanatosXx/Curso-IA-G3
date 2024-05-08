@@ -9,6 +9,9 @@
 
 ### Unidad Tres
 
+<a href="https://www.canva.com/design/DAGEl2pQeQg/QoNwBNFiGP3J5z3sZaVeHg/view?utm_content=DAGEl2pQeQg&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Enlace a Presentación Python en IA</a>
+
+
 Alternatively try them directly on **Google Colab** 
 
 | Title | Tutorial Notebook  | Solution |
