@@ -22,7 +22,8 @@ data = {
     'PaymentMethod': ['Electronic check', 'Mailed check', 'Bank transfer (automatic)', 'Electronic check', 'Credit card (automatic)', 'Mailed check', 'Electronic check', 'Electronic check', 'Credit card (automatic)', 'Bank transfer (automatic)'],
     'MonthlyCharges': [29.85, 56.95, 53.85, 42.30, 70.70, 99.65, 89.10, 29.75, 104.80, 56.35],
     'TotalCharges': [188.95, 108.15, 869.45, 1840.75, 70.70, 1990.50, 1290.60, 82.95, 2250.45, 1193.65],
-    'Churn': ['No', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No']
+    'Churn': ['No', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No'],
+ 
 }
 
 df = pd.DataFrame(data)
