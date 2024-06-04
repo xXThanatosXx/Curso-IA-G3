@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/1185818338_3540507276_2985619417.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_2919340033_4084927948.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_3367782130_4166319732.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_2919340033_1448435622.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_3192830264_1035362088.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_2919340033_377600811.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_3776473053_2491926877.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_2919340033_1752119646.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_1129885658_1945249459.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_2919340033_433503685.mp4'
+file 'file:D:/Shadow/GitHub/Curso-IA-G3/MisionTres/ML-Lessons/media/videos/perceptron_update/480p15/partial_movie_files/PerceptronUpdate/624642324_784179552_1075215467.mp4'
