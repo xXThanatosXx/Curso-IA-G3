@@ -1,4 +1,4 @@
-<h1 align="center">Metricas</h1>
+<h1 align="center">Métricas</h1>
 
 
 ## Ejemplo Matriz de Confusión
