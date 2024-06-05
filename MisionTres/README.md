@@ -21,7 +21,7 @@ print(f"Verdaderos Negativos (TN): {TN}")
 print(f"Falsos Positivos (FP): {FP}")
 print(f"Falsos Negativos (FN): {FN}")
 print(f"Verdaderos Positivos (TP): {TP}")
-
+```
 
 ## Ejemplo Matriz de Confusión
 
@@ -61,4 +61,4 @@ report = classification_report(y_true, y_pred, target_names=['No Spam', 'Spam'])
 print(report)
 ```
 
-```
+
