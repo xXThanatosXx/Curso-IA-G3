@@ -15,7 +15,7 @@ X = X[y != 2][:, [0, 1]]
 y = y[y != 2]
 
 # Dividir el dataset en conjunto de entrenamiento y prueba
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=1)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
 # Estandarizar las características
 sc = StandardScaler()
@@ -28,7 +28,7 @@ learning_rate = 0.01  # Ajusta este valor según tus necesidades
 
 # Entrenar el Perceptrón y registrar los errores por época
 
-ppn = Perceptron(max_iter=1, eta0=learning_rate, random_state=1, warm_start=True)
+ppn = Perceptron(max_iter=1, eta0=learning_rate, random_state=42, warm_start=True)
 errors = []
 
 for _ in range(50):
