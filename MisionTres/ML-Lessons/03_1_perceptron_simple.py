@@ -10,8 +10,8 @@ X = iris.data
 y = iris.target
 
 # Selecciona dos clases de flores y las dos primeras características para simplificar la visualización
-X = X[y != 2][:, [0, 1]]
-y = y[y != 2]
+# X = X[y != 2][:, [0, 1]]
+# y = y[y != 2]
 
 
 # Divide los datos en conjuntos de entrenamiento y prueba

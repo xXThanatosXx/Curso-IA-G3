@@ -34,16 +34,16 @@ activation_model = models.Model(inputs=model.input, outputs=layer_outputs)
 # Obtener las activaciones
 activations = activation_model.predict(image)
 
-# Función para graficar las activaciones
-def display_activation(activations, col_size, row_size, layer_number):
-    activation = activations[layer_number]
-    activation_index = 0
-    fig, ax = plt.subplots(row_size, col_size, figsize=(12, 12))
-    for row in range(row_size):
-        for col in range(col_size):
-            ax[row][col].imshow(activation[0, :, :, activation_index], cmap='viridis')
-            activation_index += 1
-    plt.show()
+# # Función para graficar las activaciones
+# def display_activation(activations, col_size, row_size, layer_number):
+#     activation = activations[layer_number]
+#     activation_index = 0
+#     fig, ax = plt.subplots(row_size, col_size, figsize=(12, 12))
+#     for row in range(row_size):
+#         for col in range(col_size):
+#             ax[row][col].imshow(activation[0, :, :, activation_index], cmap='viridis')
+#             activation_index += 1
+#     plt.show()
 
-# Graficar las activaciones de la primera capa de convolución
-display_activation(activations, col_size=4, row_size=8, layer_number=0)
+# # Graficar las activaciones de la primera capa de convolución
+# display_activation(activations, col_size=4, row_size=8, layer_number=0)
