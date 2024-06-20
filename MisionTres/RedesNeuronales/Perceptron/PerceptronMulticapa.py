@@ -1,13 +1,13 @@
-import matplotlib.pyplot as plt
-import seaborn as sns
 from sklearn  import datasets
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Cargar el dataset Iris
-iris = datasets.load_wine()
+iris = datasets.load_iris()
 X = iris.data
 y = iris.target
 
