@@ -1,6 +1,3 @@
-
-# Prompts for Generating Ideas, Managing, and Creating a Project
-
 # Prompts for Generating Ideas, Managing, and Creating a Project
 
 ## Generación de Ideas
