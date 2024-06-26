@@ -1,0 +1,7 @@
+Material,Dureza,Resistencia_Compresion (MPa),Peso (kg/m3),Costo ($/m2),Impacto_Ambiental (kg CO2/m2),Durabilidad (años),Estetica
+Granito,7,200,2700,50,20,50,8
+Mármol,5,120,2700,80,30,30,10
+Pizarra,6,90,2800,40,25,40,6
+PVC,3,50,1400,30,10,20,5
+Polietileno,2,30,950,20,5,15,4
+Policarbonato,3,70,1200,60,15,25,7

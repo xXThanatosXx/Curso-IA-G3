@@ -9,6 +9,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 # Cargar el dataset
 data = pd.read_csv('.\MisionTres\Preprocesamiento\Iris.csv')
 
