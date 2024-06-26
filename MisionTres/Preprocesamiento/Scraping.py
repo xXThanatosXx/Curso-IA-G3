@@ -29,7 +29,7 @@ if response.status_code == 200:
             products.append({'Title': title, 'Price': price})
 
     # Guardar los productos en un archivo CSV
-    with open('products.csv', 'w', newline='') as file:
+    with open('.\MisionTres\Preprocesamiento\products.csv', 'w', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=['Title', 'Price'])
         writer.writeheader()
         for product in products:

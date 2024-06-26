@@ -31,7 +31,7 @@ def scrape_data():
                 price = price_element.get_text(strip=True)
                 products.append({'Title': title, 'Price': price})
 
-        with open('products.csv', 'w', newline='') as file:
+        with open('.\MisionTres\Preprocesamiento\products.csv', 'w', newline='') as file:
             writer = csv.DictWriter(file, fieldnames=['Title', 'Price'])
             writer.writeheader()
             for product in products:
