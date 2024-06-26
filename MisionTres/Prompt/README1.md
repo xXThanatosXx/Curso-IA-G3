@@ -84,7 +84,8 @@ Analizar documentos con IA: "analiza el articulo y extrae la información del es
 <a href="https://chatgpt.com/" target="_blank">- ChatGPT: Redacción de propuesta </a>
 
 
-Explore GPTS empleadas
+Explore GPTS empleadas:
+
 ![alt text](image.png)
 
 
