@@ -87,6 +87,7 @@ Analizar documentos con IA: "analiza el articulo y extrae la información del es
 Explore GPTS empleadas
 ![alt text](image.png)
 
+
 ![alt text](image-1.png)
 
 <a href="https://typeset.io/" target="_blank">- Revisión de artículos: ScisPace </a>
