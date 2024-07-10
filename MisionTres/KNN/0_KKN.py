@@ -21,7 +21,7 @@ X_train_std = sc.transform(X_train)
 X_test_std = sc.transform(X_test)
 
 # Entrenar el clasificador KNN
-knn = KNeighborsClassifier(n_neighbors=4)
+knn = KNeighborsClassifier(n_neighbors=5)
 knn.fit(X_train_std, y_train)
 
 # Realizar predicciones
